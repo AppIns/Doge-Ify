@@ -24,7 +24,7 @@ var imgsrc = ["https://c2.staticflickr.com/4/3689/11025069063_4132db62d2_b.jpg",
 
 // Amount of images
 var amt = document.getElementsByTagName("IMG").length;
-if(i == -1){
+if(i == 0){
   // No images?
   alert("There are no images on this page");
 }else{
