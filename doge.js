@@ -6,6 +6,7 @@
 function random(n){
   var x = Math.random();
   x = Math.round(x * n);
+  return x;
 }
 
 // Images
