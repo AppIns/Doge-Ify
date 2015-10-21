@@ -9,7 +9,7 @@ function random(n){
   return x;
 }
 
-function main(){
+
 // Images
 var imgsrc = ["https://c2.staticflickr.com/4/3689/11025069063_4132db62d2_b.jpg",
 "https://upload.wikimedia.org/wikipedia/commons/b/b5/Doge2.jpg",
@@ -30,5 +30,4 @@ if(i == -1){
     var rand = random(imgsrc.length - 1);
     cIMG.src = imgsrc[rand];
   }
-}
 }
