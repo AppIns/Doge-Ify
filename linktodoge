@@ -1,3 +1,0 @@
-Copy and paste the link bellow into your browser
-Or bookmark it
-javascript:var dogejs=document.createElement('script');dogejs.src="https://raw.githubusercontent.com/AppIns/Doge-Ify/master/doge.js"; document.body.appendChild(dogejs);void(0);
