@@ -1,7 +1,7 @@
 // Code to turn every image on the page to doge
 // Wow, so code, much write, very cool
 
-// GitHub.com/AppIns/Doge.js
+// GitHub.com/AppIns/Doge-ify
 
 function random(n){
   var x = Math.random();
@@ -9,8 +9,7 @@ function random(n){
   return x;
 }
 
-
-// Images
+// Images, you could change this to be a totally different program even
 var imgsrc = ["https://c2.staticflickr.com/4/3689/11025069063_4132db62d2_b.jpg",
 "https://upload.wikimedia.org/wikipedia/commons/b/b5/Doge2.jpg",
 "https://c2.staticflickr.com/4/3721/12139928374_d16d9fd29d.jpg",
